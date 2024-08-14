@@ -1,0 +1,15 @@
+.social{
+    a{
+        display: flex;
+        width: 43px;
+        height: 43px;
+        border-radius: 160px;
+        justify-content: center;
+        align-items: center;
+        color: var(--white);
+        background-color: var(--black);
+    }
+}
+footer{
+    background-color: #0f172a;
+}
